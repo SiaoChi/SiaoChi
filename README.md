@@ -14,9 +14,14 @@ My ultimate objective is to be an independent backend engineer, crafting awe-ins
 ## Latest Project 🌱
 
 I recently developed a social networking website called "YOUR FRIENDS 你的智友" dedicated to helping caregivers of dementia patients. This platform facilitates connections, allowing them to make new friends and share experiences.
+<br>
+► [YOUR FRIENDS](https://github.com/SiaoChi/friends-app)
 
 ## Favorite Creations 💻
 
 One of my favorite projects is an application leveraging LINE's webhook to create a simple app. This chatbot assists users in sending messages to a chatroom and automatically archives them in Google Sheets. Moreover, it enables users to search for relevant information using specific keywords. The chatbot called "凱莉的學習筆記".
+<br>
+► [LINEBOT](https://github.com/SiaoChi/linebot_manageUrl)
+
 
 I'm thrilled to meet you all and eager to learn from your valuable insights and expertise. Feel free to connect and collaborate!🙋‍♀️
