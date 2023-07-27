@@ -12,7 +12,7 @@ My ultimate objective is to be an independent backend engineer, crafting awe-ins
 
 ## Latest Project 🌱
 
-I recently developed a social networking website dedicated to helping caregivers of dementia patients. This platform facilitates connections, allowing them to make new friends and share experiences.
+I recently developed a social networking website called "YOUR FRIENDS 你的智友" dedicated to helping caregivers of dementia patients. This platform facilitates connections, allowing them to make new friends and share experiences.
 
 ## Favorite Creations 💻
 
