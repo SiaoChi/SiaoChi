@@ -9,6 +9,7 @@ My ultimate objective is to be an independent backend engineer, crafting awe-ins
 ## Recent Experience 🚀
 
 - Completed the AppWorks School bootcamp for backend programming during Apr-Aug 2023.
+- Through self-learning on online tutorial websites, I developed a recipe website using Python and Django, equipped with CRUD functionality in 2022.
 
 ## Latest Project 🌱
 
