@@ -1,6 +1,6 @@
 # Hi there! 👋  This is Kelly's repo!
 
-I'm a former marketing professional who made a career transition to become a backend engineer. Passionate about coding, I believe in creating tools that empower people to reuse and benefit from them significantly.
+Passionate about coding, I believe in creating tools that empower people to reuse and benefit from them significantly.
 
 ## Goals 🎯
 
