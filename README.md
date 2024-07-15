@@ -11,11 +11,12 @@ My ultimate objective is to be an independent backend engineer, crafting awe-ins
 - Completed the AppWorks School bootcamp for backend programming during Apr-Aug 2023.
 - Through self-learning on online tutorial websites, I developed a recipe website using Python and Django, equipped with CRUD functionality in 2022.
 
-## Latest Project 🌱
+## Latest Side Project 🌱
 
 I recently developed a social networking website called "YOUR FRIENDS 你的智友" dedicated to helping caregivers of dementia patients. This platform facilitates connections, allowing them to make new friends and share experiences.
 <br>
-► [YOUR FRIENDS](https://github.com/SiaoChi/friends-app)
+► [YOUR FRIENDS](https://github.com/SiaoChi/friends-app) <br>
+► [YongJen Hotel Official website](https://www.yong-jen.com/) <br>
 
 ## Favorite Creations 💻
 
