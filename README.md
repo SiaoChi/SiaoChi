@@ -18,7 +18,7 @@ I recently developed a social networking website called "YOUR FRIENDS 你的智�
 ► [YOUR FRIENDS](https://github.com/SiaoChi/friends-app) <br>
 ► [YongJen Hotel Official website](https://www.yong-jen.com/) <br>
 ► [One House Agency Website](http://www.onehouse.com.tw/)<br>
-► ⭐️ [SiaoChi profolio](https://siaochi.github.io/portfolio/project)<br>
+► ⭐️ [SiaoChi profolio](https://siaochi.github.io/portfolio/)<br>
 
 ## Favorite Creations 💻
 
